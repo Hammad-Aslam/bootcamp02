@@ -6,9 +6,9 @@ function App() {
   return (
     <div>
     <h1>
-      This message says Hello world
+      This message says Salam to All
     </h1>
-      Hello World from Hammad!
+      Assalam-o-alikum from Hammad!
     </div>
   );
 }
